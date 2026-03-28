@@ -1,8 +1,8 @@
-# 🧠 Simple CPU Simulator (COA Project)
+# 🧠 Simple CPU Simulator 
 
 ## 🎥 Demo Preview
 
-![CPU Simulator Demo](assets/CPU.gif)
+![CPU Simulator Demo](assets/CPU.mp4)
 
 ---
 
