@@ -1,5 +1,11 @@
 # 🧠 Simple CPU Simulator (COA Project)
 
+## 🎥 Demo Preview
+
+![CPU Simulator Demo](assets/CPU.gif)
+
+---
+
 ## 📌 Introduction
 This project is a web-based Simple CPU Simulator developed to demonstrate how a basic computer processes instructions. It visualizes the complete instruction cycle — Fetch, Decode, Execute, and Write-Back — helping users understand the internal working of a CPU in an interactive way.
 
