@@ -2,7 +2,7 @@
 
 ## 🎥 Demo Preview
 
-![CPU Simulator Demo](assets/CPU.gif)
+![CPU Simulator Demo](assets/CPU.mp4)
 
 ---
 
