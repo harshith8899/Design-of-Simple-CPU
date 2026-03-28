@@ -1,4 +1,4 @@
-# 🧠 Simple CPU Simulator (COA Project)
+# 🧠 Simple CPU Simulator 
 
 ## 🎥 Demo Preview
 
